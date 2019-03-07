@@ -1,5 +1,5 @@
 PODS:
-  - SwiftyBeaver (1.4.0)
+  - SwiftyBeaver (1.6.2)
 
 DEPENDENCIES:
   - SwiftyBeaver
@@ -9,7 +9,7 @@ SPEC REPOS:
     - SwiftyBeaver
 
 SPEC CHECKSUMS:
-  SwiftyBeaver: 78d9186ce7595b4400ce01e5fd750d263e72dd7b
+  SwiftyBeaver: 8e67ab3cd94389cbbb7a9c7cc02748d98bfee68e
 
 PODFILE CHECKSUM: d0d82d5e616b56376c1e27857c5a4b2986762083
 
